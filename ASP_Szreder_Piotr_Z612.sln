@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Baza_osob_zaginionych", "ASP_Core_Baza_osob_zaginionych\MVC_Baza_osob_zaginionych.csproj", "{D9D75969-8A3F-449B-BEF8-FDDB90490F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D75969-8A3F-449B-BEF8-FDDB90490F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D75969-8A3F-449B-BEF8-FDDB90490F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D75969-8A3F-449B-BEF8-FDDB90490F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D75969-8A3F-449B-BEF8-FDDB90490F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA02811C-5C63-4D09-94CA-D72101F0D39E}
+	EndGlobalSection
+EndGlobal
